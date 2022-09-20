@@ -1,5 +1,4 @@
-# Intuit_Craft_Demo
-Intuit Craft Demo Exercise:
+# Intuit Craft Demo Exercise:
 
 Problem Statement:
 Given a binary tree with unique integer values. Return the vector of roots of subtrees formed after
